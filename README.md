@@ -3,7 +3,7 @@
 <h2>:hammer_and_wrench: Engineering Projects:</h2>
 
 - <b>Airless Bike Tire Insert </b>
-  - [Puncture-proof 3D-printed TPU innertube alternative](https://github.com/dlacours/adadadsdasdasdasd)
+  - [Puncture-proof 3D-printed TPU innertube alternative](https://github.com/dlacours/airlessbiketireinsert)
 - <b>Dynamic Fish Feeder </b>
   - [Automatic sub-surface fish feeding mechanism designed to train natural hunting responses in fish](https://github.com/dlacours/adadsadadsad) </b>
 
